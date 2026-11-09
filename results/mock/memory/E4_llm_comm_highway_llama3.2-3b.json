@@ -1,0 +1,20 @@
+[
+  {
+    "scenario": "highway",
+    "text": "Check the rear gap before changing lanes; fast cars behind close the gap quickly.",
+    "author": "A0",
+    "episode": "E4_llm_comm_highway_True_True_s0"
+  },
+  {
+    "scenario": "highway",
+    "text": "Announce lane changes early; when two cars target one gap, the lower-priority car waits.",
+    "author": "A3",
+    "episode": "E4_llm_comm_highway_True_True_s0"
+  },
+  {
+    "scenario": "highway",
+    "text": "Main-lane cars should yield early when a ramp car asks to merge.",
+    "author": "A0",
+    "episode": "E4_llm_comm_highway_True_True_s2"
+  }
+]

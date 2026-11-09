@@ -1,0 +1,14 @@
+[
+  {
+    "scenario": "highway",
+    "text": "Check the rear gap before changing lanes; fast cars behind close the gap quickly.",
+    "author": "A0",
+    "episode": "E1_llm_nocomm_highway_s0"
+  },
+  {
+    "scenario": "highway",
+    "text": "Main-lane cars should yield early when a ramp car asks to merge.",
+    "author": "A0",
+    "episode": "E1_llm_nocomm_highway_s1"
+  }
+]

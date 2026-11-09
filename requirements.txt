@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+requests
+plotly
+python-pptx
+pytest
+# optional, for automatic Word table-of-contents + PDF: pywin32
+

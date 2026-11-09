@@ -1,0 +1,14 @@
+[
+  {
+    "scenario": "merge",
+    "text": "Check the rear gap before changing lanes; fast cars behind close the gap quickly.",
+    "author": "A2",
+    "episode": "E4_llm_comm_merge_True_True_s0"
+  },
+  {
+    "scenario": "merge",
+    "text": "Announce lane changes early; when two cars target one gap, the lower-priority car waits.",
+    "author": "A2",
+    "episode": "E4_llm_comm_merge_False_True_s0"
+  }
+]
